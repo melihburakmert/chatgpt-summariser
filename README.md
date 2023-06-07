@@ -4,9 +4,9 @@ This repo provides two different summarisers, parallel and recursive, both can b
 
 ## Requirements
 
-A recent version of python
-An openAI api key
-Something to run Jupyter Notebooks
+- A recent version of python
+- An openAI api key
+- Something to run Jupyter Notebooks
 
 ### Dependencies
 
